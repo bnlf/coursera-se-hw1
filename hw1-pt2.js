@@ -4,6 +4,7 @@
 * 			Prime Numbers to file using node.js	
 */
 
+// #!/usr/bin/env node
 var fs = require('fs');
 
 // test if a number is prime
