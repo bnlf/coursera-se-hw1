@@ -1,6 +1,6 @@
 /*
 * @Author: Bruno Faria
-* Descript: Homework1 Part1 - Startup Engineering
+* Descript: Homework1 Part1 - Coursera Startup Engineering @ 2013
 * 			Write to file using node.js	
 */
 

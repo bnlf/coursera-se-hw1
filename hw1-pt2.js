@@ -1,7 +1,7 @@
 /*
 * @Author: Bruno Faria
-* Descript: Homework1 Part2 - Startup Engineering
-* 			Prime Numbers	
+* Descript: Homework1 Part2 - Coursera Startup Engineering @ 2013
+* 			Prime Numbers to file using node.js	
 */
 
 var fs = require('fs');
@@ -9,7 +9,7 @@ var fs = require('fs');
 // test if a number is prime
 var isPrime = function(n) 
 {
-	var prime = false;
+	var prime = 0;
 	// base prime number
 	if (n == 2) {
 		prime = 1;
